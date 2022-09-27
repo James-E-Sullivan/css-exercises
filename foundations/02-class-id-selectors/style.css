@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(226, 123, 146);
+}
+
+#id_1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.special {
+    font-size: 24px;
+}
+
+#id_2 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
